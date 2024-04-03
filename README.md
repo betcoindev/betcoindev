@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![white papper](https://github.com/betcoindev/betcoindev/assets/165936883/d8ff17ca-e84c-48eb-83f4-611ae1df484c)
+[whitepapper.pdf](https://github.com/betcoindev/betcoindev/files/14855923/whitepapper.pdf)
+
+
 <!--
 **betcoindev/betcoindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
